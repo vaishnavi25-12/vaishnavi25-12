@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋 I'm Vaishnavi Kaparaveni
 
-<!--
-**vaishnavi25-12/vaishnavi25-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science (Data Science) Student  
+📍 Ace Engineering College | CGPA: 8.6  
+💡 Aspiring Machine Learning & Data Science Engineer  
+🚀 Open to ML / AI / Data Science Internship Opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+
+💻 Programming: Python, Java, C  
+📊 Data & ML: Machine Learning, Deep Learning (CNN), Data Analytics  
+🧠 AI Domains: Computer Vision, Generative AI  
+🗄 Core CS: Data Structures, DBMS, OOPS  
+☁️ Cloud: AWS Fundamentals, Cloud Computing Basics  
+
+---
+
+## 🚀 Projects
+
+### 🔹 Gender & Age Detection System
+- Built a CNN-based deep learning model to predict age and gender from facial images
+- Performed data preprocessing, model training, evaluation
+- Implemented using Python and Deep Learning libraries
+
+---
+
+## 📜 Certifications & Virtual Internships
+
+- Employability Skills & Digital Literacy with AI – AICTE, Edunet Foundation, IBM SkillsBuild  
+- AWS Cloud Virtual Internship  
+- AI Cloud Virtual Internship – AICTE, Edunet Foundation, IBM  
+- Career Essentials in Generative AI – Microsoft & LinkedIn  
+- Solutions Architecture Job Simulation – Forage  
+- GenAI Powered Data Analytics Job Simulation – Tata Group  
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: vaishnavikapraveni@gmail.com  
+📍 Location: India  
+
+---
+
+⭐ “Consistent learning and real-world implementation is my growth strategy.”
